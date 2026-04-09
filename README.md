@@ -1,6 +1,6 @@
 # Estoque Inteligente
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-concluido-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
 ![Plotly](https://img.shields.io/badge/Plotly-interativo-blueviolet?logo=plotly)
 
